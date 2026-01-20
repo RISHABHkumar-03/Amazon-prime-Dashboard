@@ -3,10 +3,10 @@
 1. **The title of project is** :
 Amazon Prime Dashboard(Movies & TV.shows)
 
-2.** Purpose / Description**:
+2. **Purpose / Description**:
 This dashboard provides an overview of Amazon Prime Video content by analyzing movies and TV shows based on ratings, genres, countries, and release trends. It helps understand content distribution, audience focus, and growth patterns over time.
 
-3. **Tech Stack:**
+3. **Tech Stack:**:
 > Power BI – for data visualization and interactive dashboard creation
 > Power Query – for data cleaning and transformation
 > DAX (Data Analysis Expressions) – for calculated measures and KPIs
